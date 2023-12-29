@@ -1,1 +1,2 @@
-# Lab Exercise on Introduction to Database
+# Cơ sở dữ liệu-CSC10006_21CLC07
+# FIT HCMUS
